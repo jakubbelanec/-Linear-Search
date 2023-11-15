@@ -1,0 +1,14 @@
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.AssemblyInfoInputs.cache
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.AssemblyInfo.cs
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.csproj.CoreCompileInputs.cache
+C:\Users\kubik\Desktop\linear\linear\bin\Debug\net7.0\linear.exe
+C:\Users\kubik\Desktop\linear\linear\bin\Debug\net7.0\linear.deps.json
+C:\Users\kubik\Desktop\linear\linear\bin\Debug\net7.0\linear.runtimeconfig.json
+C:\Users\kubik\Desktop\linear\linear\bin\Debug\net7.0\linear.dll
+C:\Users\kubik\Desktop\linear\linear\bin\Debug\net7.0\linear.pdb
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.dll
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\refint\linear.dll
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.pdb
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.genruntimeconfig.cache
+C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\ref\linear.dll
