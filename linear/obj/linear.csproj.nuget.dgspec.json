@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kubik\\Desktop\\linear\\linear\\linear.csproj": {}
+    "C:\\Users\\kubik\\Documents\\GitHub\\-Linear-Search\\linear\\linear.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kubik\\Desktop\\linear\\linear\\linear.csproj": {
+    "C:\\Users\\kubik\\Documents\\GitHub\\-Linear-Search\\linear\\linear.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kubik\\Desktop\\linear\\linear\\linear.csproj",
+        "projectUniqueName": "C:\\Users\\kubik\\Documents\\GitHub\\-Linear-Search\\linear\\linear.csproj",
         "projectName": "linear",
-        "projectPath": "C:\\Users\\kubik\\Desktop\\linear\\linear\\linear.csproj",
+        "projectPath": "C:\\Users\\kubik\\Documents\\GitHub\\-Linear-Search\\linear\\linear.csproj",
         "packagesPath": "C:\\Users\\kubik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kubik\\Desktop\\linear\\linear\\obj\\",
+        "outputPath": "C:\\Users\\kubik\\Documents\\GitHub\\-Linear-Search\\linear\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kubik\\AppData\\Roaming\\NuGet\\NuGet.Config",

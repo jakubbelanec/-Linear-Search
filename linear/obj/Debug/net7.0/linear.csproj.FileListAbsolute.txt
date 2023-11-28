@@ -12,3 +12,17 @@ C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\refint\linear.dll
 C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.pdb
 C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\linear.genruntimeconfig.cache
 C:\Users\kubik\Desktop\linear\linear\obj\Debug\net7.0\ref\linear.dll
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\bin\Debug\net7.0\linear.exe
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\bin\Debug\net7.0\linear.deps.json
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\bin\Debug\net7.0\linear.runtimeconfig.json
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\bin\Debug\net7.0\linear.dll
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\bin\Debug\net7.0\linear.pdb
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\linear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\linear.AssemblyInfoInputs.cache
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\linear.AssemblyInfo.cs
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\linear.csproj.CoreCompileInputs.cache
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\linear.dll
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\refint\linear.dll
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\linear.pdb
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\linear.genruntimeconfig.cache
+C:\Users\kubik\Documents\GitHub\-Linear-Search\linear\obj\Debug\net7.0\ref\linear.dll

@@ -16,18 +16,22 @@ Console.WriteLine();
 Console.Write("Chci najít člověka s výškou: ");
 int hledanaVyska = Convert.ToInt32(Console.ReadLine());
 
-
 bool nalezeno = false;
 for (int i = 0; i < vyskaLidi.Length; i++)
 {
     if (vyskaLidi[i] == hledanaVyska)
     {
         nalezeno = true;
-        Console.WriteLine("Nalezeno ==> " + hledanaVyska);
+        break;
     }
-    break;
 }
-if (!nalezeno)
+
+if (nalezeno)
 {
-    Console.WriteLine("Nenalezeno");
+    Console.WriteLine($"Hodnota {hledanaVyska} byla nalezena.");
 }
+else
+{
+    Console.WriteLine($"Hodnota {hledanaVyska} nebyla nalezena.");
+}
+Console.ReadLine();
